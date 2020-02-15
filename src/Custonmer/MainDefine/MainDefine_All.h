@@ -19,6 +19,10 @@
 #include "MainDefine_2.h"
 #endif
 
+#if Customer==MALLOC
+#include "MainDefine_3.h"
+#endif
+
 
 
 #endif /* CUSTONMER_MAINDEFINE_MAINDEFINE_ALL_H_ */

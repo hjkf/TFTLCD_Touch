@@ -7,6 +7,7 @@
 #include "HARDWARE/24CXX/24cxx.h"
 #include "HARDWARE/TOUCH/touch.h"
 #include "HARDWARE/STMFLASH/stmflash.h"
+#include "malloc.h"
 
 #include "Custonmer/IcludeDefien/IcludeDefien_All.h"
 

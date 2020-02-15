@@ -10,6 +10,7 @@
 
 #define TFTLCD_Touch 1
 #define FLASH_EEPROM 2
+#define MALLOC 3
 
 
 

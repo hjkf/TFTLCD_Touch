@@ -11,7 +11,7 @@
 #include "CustomerDataDefine.h"
 
 //#define Customer TFTLCD_Touch
-#define Customer FLASH_EEPROM
+#define Customer MALLOC
 
 
 #endif /* CUSTOMERDATASETTING_H_ */
